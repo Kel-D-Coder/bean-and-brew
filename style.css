@@ -1,7 +1,7 @@
 div {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: yellow;
     transition: width 2s, height 4s, background-color 3s;
 }
 
