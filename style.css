@@ -3,6 +3,7 @@ div {
     height: 100px;
     background-color: yellow;
     transition: width 2s, height 4s, background-color 3s;
+    border radius: 20px;
 }
 
 div:hover {
